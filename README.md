@@ -26,7 +26,7 @@ Be prepared to demonstrate your understanding of this week's concepts by answeri
 
 1. Differences between using _sessions_ or _JSON Web Tokens_ for authentication.
 
-Sessions are used to store bits of information within an app or web app as a coolkie. this is so info can be accessed locally at an instant for use.
+Sessions are used to store bits of information within an app or web app as a cookie. this is so info can be accessed locally at an instant for use.
 
 JSON Web Token is a self-contained way for securely transmitting information between parties as a JSON object.
 
@@ -38,7 +38,7 @@ bcrypt is a function that uses hashing to build a file/folder with passwords sto
 
 unit tests are more used to test the spplications functionality and to make sure it behaves the proper way
 
-end-to-end testing is to test the applications flowfrom start to finish and the systems dependencies are intergrated as expected.
+end-to-end testing is to test the applications flow from start to finish and the systems dependencies are intergrated as expected.
 
 4. How _Test Driven Development_ changes the way we write applications and tests.
 
